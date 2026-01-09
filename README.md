@@ -10,9 +10,6 @@
 
 </br>
 
-- 📖 I’m currently studying at university PSAU ...
- - 🌱 I’m currently learning **software engineering, networking**
-
 
 <hr>
 
