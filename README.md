@@ -1,17 +1,15 @@
 # Hey there👋, Welcome to my Github Profile
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Mno_2e;Computer+engineering..."/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Mustafa;Computer+engineering..."/>
  
- <p>- <i>I love codeing with python and ruby.</i></p>
+ <p>- <i>I love codeing with python.</i></p>
 
 
 
 ## ⚡🙋‍♂️ About Me
 
 </br>
-
-
-<hr>
+I have been graduted last year 2025!!!!
 
 
 </br>
